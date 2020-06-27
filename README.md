@@ -6,9 +6,9 @@ The background changes depending on the temperature of the searched location.
 
 ## Images
 
-<img src="src/assets/warm-gh.jpg">
-<img src="src/assets/cold-gh.jpg">
-<img src="src/assets/frozen-gh.jpg">
+<img src="src/assets/warm-gh.png">
+<img src="src/assets/cold-gh.png">
+<img src="src/assets/frozen-gh.png">
 
 
 ## Project setup
